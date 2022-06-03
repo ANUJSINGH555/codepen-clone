@@ -1,6 +1,6 @@
-This project demonstrates the working of codepen website for front-end languages.
-Each editor tab can be maximized and minimized
-The code is automatically saved and even after a reload the previously written code will be shown in the editors.
+This project demonstrates the working of codepen website for front-end languages.\
+Each editor tab can be maximized and minimized\
+The code is automatically saved and even after a reload the previously written code will be shown in the editors.\
 
 <img width="1000" alt="Screenshot 2022-06-03 at 6 31 58 PM" src="https://user-images.githubusercontent.com/57523177/171861414-bc03fb4e-c6e6-4ac1-a411-070d1b8014ec.png">
 
